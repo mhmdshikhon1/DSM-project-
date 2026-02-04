@@ -1,15 +1,15 @@
-#Chicago Crimes Analysis (2020 - 2024)
-##Project Overview
+# Chicago Crimes Analysis (2020 - 2024)
+## Project Overview
 This project analyzes the Chicago Crimes dataset from 2020 to 2024 to identify criminal patterns, peak crime hours, and geographical distribution. The goal is to provide insights that can assist in resource allocation and public safety planning.
 
-###Team Contributions
+### Team Contributions
 Data Collection: Youssef Mohamed
 
-Data Cleaning & Preprocessing:Mohamed shaikhoun (me)
+### Data Cleaning & Preprocessing:Mohamed shaikhoun (me)
 
 Data Visualization: Tarek Farag
 
-###Project Workflow
+### Project Workflow
 1. Data Collection
 Collected over 1.2 million records from the official Chicago City API using Python.
 
@@ -46,7 +46,7 @@ Common Crimes: "Theft" and "Battery" emerged as the top reported crime types.
 
 Location Analysis: Most incidents occur in Streets and Residential areas.
 
-###Technologies Used
+### Technologies Used
 
 Python: For data collection and cleaning.
 
