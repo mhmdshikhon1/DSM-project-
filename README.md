@@ -5,7 +5,7 @@ This project analyzes the Chicago Crimes dataset from 2020 to 2024 to identify c
 ### Team Contributions
 Data Collection: Youssef Mohamed
 
-### Data Cleaning & Preprocessing:Mohamed shaikhoun (me)
+Data Cleaning & Preprocessing:Mohamed shaikhoun (me)
 
 Data Visualization: Tarek Farag
 
