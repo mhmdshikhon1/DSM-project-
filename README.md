@@ -3,7 +3,7 @@
 This project analyzes the Chicago Crimes dataset from 2020 to 2024 to identify criminal patterns, peak crime hours, and geographical distribution. The goal is to provide insights that can assist in resource allocation and public safety planning.
 
 
-[](project-crimes-fotor-20260217165411.png)
+![Chicago Crimes Analysis](project-crimes-fotor-20260217165411.png)
 ### Team Contributions
 Data Collection: Youssef Mohamed
 
